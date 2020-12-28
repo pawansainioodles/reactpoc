@@ -1,0 +1,26 @@
+export default Users=[
+    {
+        id:1,
+        username:"user1",
+        password:"pass",
+        userToken:"123"
+    },
+    {
+        id:1,
+        username:"user2",
+        password:"pas2",
+        userToken:"223"
+    },
+    {
+        id:1,
+        username:"user3",
+        password:"pass",
+        userToken:"323"
+    },
+    {
+        id:1,
+        username:"user4",
+        password:"pass",
+        userToken:"423"
+    }
+];
